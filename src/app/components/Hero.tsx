@@ -21,10 +21,10 @@ function Hero() {
           </h2>
 
           <p className="mt-6 md:mt-10 text-lg md:text-xl px-4 md:px-0 max-w-2xl">
-            "Step into a warm and inviting atmosphere where every meal is prepared
+          &quot;Step into a warm and inviting atmosphere where every meal is prepared
             with passion and precision. Whether you&apos;re here for a casual meal
             with friends or a special celebration, our team is dedicated to making
-            your visit memorable from start to finish."
+            your visit memorable from start to finish.&quot;
           </p>
 
           <button className="mt-8 md:mt-10 bg-gray-400 h-12 w-44 rounded-md font-semibold hover:bg-gray-500 transition-all mx-auto md:mx-0 md:ml-52">
