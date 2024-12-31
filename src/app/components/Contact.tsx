@@ -3,7 +3,7 @@ function Contact() {
       <main id="contact" className="w-full text-center py-8 px-4 md:px-12 bg-gray-100">
         <div className="mb-8">
           <h1 className="text-3xl font-semibold">Contact Us</h1>
-          <p className="text-xl mt-6 text-gray-500">We'd love to hear from you! Reach out with any questions or feedback.</p>
+          <p className="text-xl mt-6 text-gray-500">We&quot;d love to hear from you! Reach out with any questions or feedback.</p>
         </div>
   
         {/* Contact Form */}

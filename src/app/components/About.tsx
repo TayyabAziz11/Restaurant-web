@@ -22,12 +22,12 @@ function About() {
         <p className="mt-6 text-lg md:text-xl max-w-3xl mx-auto md:mx-0">
           "At our restaurant, we take pride in serving food that is both healthy
           and delicious. Every dish is carefully prepared using fresh,
-          high-quality ingredients to ensure it’s packed with nutrients while
+          high-quality ingredients to ensure it&quot;s packed with nutrients while
           never compromising on taste. From wholesome grains to vibrant
           vegetables and lean proteins, our menu is designed to nourish your body
-          and delight your senses. Whether you’re looking for a light snack or a
+          and delight your senses. Whether you&quot;re looking for a light snack or a
           hearty meal, we offer a variety of options that cater to all tastes and
-          dietary needs. Enjoy a satisfying dining experience that’s as good for
+          dietary needs. Enjoy a satisfying dining experience that&quot;s as good for
           you as it is tasty."
         </p>
 
